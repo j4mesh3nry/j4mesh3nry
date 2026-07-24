@@ -20,7 +20,7 @@ STATUS        : [ACTIVE] — triaging alerts, writing code, studying
 LOCATION      : Cagayan de Oro, PH  [UTC+8]
 VECTOR        : Cybersecurity → the long game
 AFFILIATION   : USTP Chess Enthusiast Club ♟️
-CURRENT_OPS   : CS50 Week 0 | SOC internship | building stuff
+CURRENT_OPS   : SOC internship | building stuff
 THREAT_LEVEL  : CURIOUS
 ```
 
