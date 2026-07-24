@@ -60,24 +60,15 @@ Not a fan of lorem ipsum. Prefers real problems.
 
 ---
 
-### `> ls projects/`
 
-| Project | Description | Stack |
-|---|---|---|
-| 🎮 **[Bonko](https://github.com/j4mesh3nry)** | Real-time multiplayer party game | React, Socket.IO, Node.js |
-| 🧬 **[MediScan](https://github.com/j4mesh3nry)** | ML-powered breast cancer detection model | Python, Scikit-learn |
-| 📅 **[Toposched](https://github.com/j4mesh3nry)** | Curriculum scheduler — research paper credit | Python |
-
----
 
 ### `> ps aux --active`
 
 ```
 PID   PROCESS                          STATUS
 001   SOC_internship@CyTech            [RUNNING] — alert triage, SIEM, XDR
-002   CS50_Harvard                     [RUNNING] — Week 0, Scratch
-003   chess_improvement.exe            [RUNNING] — wins: sometimes
-004   cybersecurity_career_path        [INITIALIZING...]
+002   chess_improvement.exe            [RUNNING] — wins: sometimes
+003   cybersecurity_career_path        [INITIALIZING...]
 ```
 
 ---
@@ -102,11 +93,6 @@ Threats seen: brute force, impossible travel, DLP,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/james-henry-emorricha)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emorricha.jameshenry@gmail.com)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=j4mesh3nry&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j4mesh3nry&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff)
 
 ---
 
