@@ -100,6 +100,5 @@ Threats seen: brute force, impossible travel, DLP,
 // stay curious. stay watching.
 ```
 
-*last updated: actively*
 
 </div>
