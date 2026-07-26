@@ -21,7 +21,6 @@ LOCATION      : Cagayan de Oro, PH  [UTC+8]
 VECTOR        : Cybersecurity → the long game
 AFFILIATION   : USTP Chess Enthusiast Club ♟️
 CURRENT_OPS   : SOC internship | building stuff
-THREAT_LEVEL  : CURIOUS
 ```
 
 ---
