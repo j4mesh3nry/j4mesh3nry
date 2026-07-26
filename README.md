@@ -76,10 +76,10 @@ PID   PROCESS                          STATUS
 
 ```
 Currently operating as Tier 1 SOC Analyst.
-Tools: Elastic SIEM/XDR, Aquila case management.
-Scope: initial triage, documentation, escalation.
+Tools: Elastic SIEM/XDR, Aquila, virusTOTAl, etc.
+Scope: initial triage, documentation, investigation, escalation.
 Threats seen: brute force, impossible travel, DLP,
-              malware detections, threat intel hits.
+              malware detections, threat intel hits, etc.
 
 // this is not a drill.
 ```
