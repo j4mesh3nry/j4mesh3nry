@@ -96,7 +96,6 @@ Threats seen: brute force, impossible travel, DLP,
 
 ```
 // end of file.
-// stay curious. stay watching.
 ```
 
 
