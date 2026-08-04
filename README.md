@@ -80,7 +80,6 @@ Scope: initial triage, documentation, investigation, escalation.
 Threats seen: brute force, impossible travel, DLP,
               malware detections, threat intel hits, etc.
 
-// this is not a drill.
 ```
 
 ---
