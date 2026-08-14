@@ -15,7 +15,7 @@
 USER          : James Henry Emorricha
 ALIAS         : j4mesh3nry / Jhenxshn
 ROLE          : Tier 1 SOC Analyst @ CyTech D&O Inc.
-               | CS Student @ USTP-CDO (Y3)
+               | CS Student @ USTP-CDO (Y4)
 STATUS        : [ACTIVE] — triaging alerts, writing code, studying
 LOCATION      : Cagayan de Oro, PH  [UTC+8]
 VECTOR        : Cybersecurity → the long game
