@@ -13,7 +13,7 @@
 └─────────────────────────────────────────────────────────────────┘
 
 USER          : James Henry Emorricha
-ALIAS         :  / Jhenxshnj4mesh3nry
+ALIAS         : Jhenxshn / j4mesh3nry
 ROLE          : Tier 1 SOC Analyst @ CyTech D&O Inc.
                | CS Student @ USTP-CDO (Y4)
 STATUS        : [ACTIVE] — triaging alerts, writing code, studying
