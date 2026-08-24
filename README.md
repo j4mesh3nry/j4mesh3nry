@@ -18,8 +18,8 @@ ROLE          : CS Student @ USTP-CDO (Y4)
 STATUS        : [ACTIVE] — triaging alerts, writing code, studying
 LOCATION      : Cagayan de Oro, PH  [UTC+8]
 VECTOR        : Cybersecurity → the long game
-AFFILIATION   : USTP Chess Enthusiast Club ♟️
-CURRENT_OPS   : SOC internship | building stuff
+AFFILIATION   : USTP Chess Enthusiast Club
+CURRENT_OPS   : building stuff
 ```
 
 ---
