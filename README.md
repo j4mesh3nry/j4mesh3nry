@@ -63,7 +63,7 @@ A 4th-year CS student who somehow ended up analyzing real security threats at a 
 ```
 PID   PROCESS                          STATUS
 001   SOC_internship@CyTech            [RUNNING] — alert triage, SIEM, XDR
-002   chess_improvement.exe            [RUNNING] — wins: sometimes
+002   chess_improvement.exe            [RUNNING] — wins: sometimes 
 003   cybersecurity_career_path        [INITIALIZING...]
 ```
 
