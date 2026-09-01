@@ -26,7 +26,7 @@ CURRENT_OPS   : building stuff
 
 ### `> whoami`
 
-A 4th-year Cmputer Science student who somehow ended up analyzing real security threats at a SOC before finishing his degree. Spends his days triaging alerts on Elastic, escalating to Tier 2, and occasionally losing to the Sicilian Defense. Interested in the intersection of cybersecurity, machine learning, and systems that actually matter.
+A 4th-year Cmputer Science student at USTP who somehow ended up analyzing real security threats at a SOC before finishing his degree. Spends his days triaging alerts on Elastic, escalating to Tier 2, and occasionally losing to the Sicilian Defense. Interested in the intersection of cybersecurity, machine learning, and systems that actually matter.
 
 
 ---
